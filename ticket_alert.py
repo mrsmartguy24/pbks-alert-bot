@@ -5,10 +5,10 @@ URLS = [
     "https://www.district.in/events/punjab-kings-team"
 ]
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "8038967641:AAHG8cZNFTRBDwjYDZVp-GNj1ECSRdEh250"
+CHAT_ID = "823023213"
 
-CHECK_INTERVAL = 10
+ CHECK_INTERVAL = 10
 
 last_html = ""
 
